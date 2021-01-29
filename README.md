@@ -1,8 +1,14 @@
 # Multitask
-[![](https://api.travis-ci.org/mhtshhp/multitask.svg?branch=master)](https://travis-ci.org/mhtshhp/multitask)
-[![](https://scrutinizer-ci.com/g/mhtshhp/multitask/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/mhtshhp/multitask)
-[![](https://scrutinizer-ci.com/g/mhtshhp/multitask/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/mhtshhp/multitask/)
+[![Build Status](https://travis-ci.org/mhtshhp/multitask.svg)](https://travis-ci.org/mhtshhp/multitask)
+[![Go Report Card](https://goreportcard.com/badge/github.com/mhtshhp/multitask)](https://goreportcard.com/report/github.com/mhtshhp/multitask)
+[![GoDoc](https://pkg.go.dev/badge/github.com/mhtshhp/multitask?status.svg)](https://pkg.go.dev/github.com/mhtshhp/multitask?tab=doc)
+[![Sourcegraph](https://sourcegraph.com/github.com/mhtshhp/multitask/-/badge.svg)](https://sourcegraph.com/github.com/mhtshhp/multitask?badge)
+[![Open Source Helpers](https://www.codetriage.com/mhtshhp/multitask/badges/users.svg)](https://www.codetriage.com/mhtshhp/multitask)
+[![Release](https://img.shields.io/github/release/mhtshhp/multitask.svg?style=flat-square)](https://github.com/mhtshhp/multitask/releases)
+[![TODOs](https://badgen.net/https/api.tickgit.com/badgen/github.com/mhtshhp/multitask)](https://www.tickgit.com/browse?repo=github.com/mhtshhp/multitask)
+
 Multi task for golang
+
 
 ## Features
 
