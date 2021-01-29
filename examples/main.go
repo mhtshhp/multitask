@@ -73,7 +73,7 @@ func main() {
 }
 
 func handleError(err error) {
-	fmt.Printf("[ERROR]:%d \n", err)
+	fmt.Printf("[ERROR]:%v \n", err)
 }
 
 func iterator(assemble []*multitask.Value) {
