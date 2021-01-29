@@ -1,4 +1,7 @@
 # Multitask
+[![](https://api.travis-ci.org/mhtshhp/multitask.svg?branch=master)](https://travis-ci.org/mhtshhp/multitask)
+[![](https://scrutinizer-ci.com/g/mhtshhp/multitask/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/mhtshhp/multitask)
+[![](https://scrutinizer-ci.com/g/mhtshhp/multitask/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/mhtshhp/multitask/)
 Multi task for golang
 
 ## Features
