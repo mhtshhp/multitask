@@ -2,8 +2,6 @@
 [![Build Status](https://travis-ci.org/mhtshhp/multitask.svg)](https://travis-ci.org/mhtshhp/multitask)
 [![Go Report Card](https://goreportcard.com/badge/github.com/mhtshhp/multitask)](https://goreportcard.com/report/github.com/mhtshhp/multitask)
 [![GoDoc](https://pkg.go.dev/badge/github.com/mhtshhp/multitask?status.svg)](https://pkg.go.dev/github.com/mhtshhp/multitask?tab=doc)
-[![Sourcegraph](https://sourcegraph.com/github.com/mhtshhp/multitask/-/badge.svg)](https://sourcegraph.com/github.com/mhtshhp/multitask?badge)
-[![Open Source Helpers](https://www.codetriage.com/mhtshhp/multitask/badges/users.svg)](https://www.codetriage.com/mhtshhp/multitask)
 [![Release](https://img.shields.io/github/release/mhtshhp/multitask.svg?style=flat-square)](https://github.com/mhtshhp/multitask/releases)
 [![TODOs](https://badgen.net/https/api.tickgit.com/badgen/github.com/mhtshhp/multitask)](https://www.tickgit.com/browse?repo=github.com/mhtshhp/multitask)
 
