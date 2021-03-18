@@ -17,6 +17,11 @@ func handleMultiTask(task_id int, fn func() (interface{}, error), timeout time.D
 		ch <- re
 
 	case <-time.After(timeout):
+		// new listener
+		go func() {
+			<-ch_run
+		}()
+
 		endTime := time.Now()
 		resulter := &Value{
 			ID:           task_id,
